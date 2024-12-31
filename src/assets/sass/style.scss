@@ -29,17 +29,13 @@ $width-left: calc((1280px + (100vw - 1600px) / 2));
 @import "./theme.scss";
 @import "./scroll.scss";
 @import "./_animations.scss";
-@import "./theme.scss";
 @import "./header2.scss";
 @import "./_menu.scss";
-@import "./componentes/_brands.scss";
-@import "./componentes/_swiper.scss";
-@import "./componentes/_bubble-whatsapp.scss";
-@import "./componentes/_google-comments.scss";
-@import "./componentes/_marquee.scss";
-@import "./componentes/_list.scss";
-@import "./componentes/_accordion.scss";
-@import "./componentes/_blog-home.scss";
+
+
+
+
+
 @import "./componentes/_video.scss";
 @import "./_blog.scss";
 @media (min-width: $break-sm) {
