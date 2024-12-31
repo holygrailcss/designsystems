@@ -10,6 +10,12 @@
     url("/assets/fonts/satoshi/Satoshi-Regular.woff") format("woff");
 
 }
+@font-face {
+  font-family: "font-medium";
+  src: url("/assets/fonts/neutrif/font-semibold.woff2") format("woff2"),
+    url("/assets/fonts/futura/font-semibold.woff") format("woff");
+    font-display: swap;
+}
 
 @font-face {
   font-family: "font-bold";
