@@ -98,7 +98,7 @@ team1_descripción: "Contamos con un equipo de expertos dedicados al desarrollo,
 
 
 
-# Todo lo que necesitas saber para crear un Design System eficiente: definición, beneficios y pasos clave
+# Designsystems
 
 ## ¿Qué es un Design System?
 Un Design System (o sistema de diseño) es un conjunto de directrices, patrones y recursos visuales unificados que ayudan a mantener la coherencia y escalabilidad en el desarrollo de productos digitales. Este repositorio centralizado de normas y componentes facilita la comunicación entre equipos de diseño y desarrollo, permitiendo construir experiencias de usuario consistentes en múltiples plataformas.
